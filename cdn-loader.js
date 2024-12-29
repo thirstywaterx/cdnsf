@@ -6,7 +6,7 @@
   const libraries = cdnNames.split(',').map(name => name.trim());
 
   try {
-    const response = await fetch('cdn-config.json');
+    const response = await fetch('/cdn-config.json');
     const cdnConfig = await response.json();
 
     libraries.forEach(lib => {
