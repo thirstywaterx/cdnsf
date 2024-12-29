@@ -13,7 +13,7 @@ CDN Source Fast is a lightweight, pure frontend tool that allows developers to d
 
 Add CDN sources to a cdn-config.json file, for example:
 
-```
+``` json
 {
   "libraries": {
     "jquery": "https://code.jquery.com/jquery-3.6.0.min.js",
@@ -28,7 +28,7 @@ Add CDN sources to a cdn-config.json file, for example:
 
 Include the <script> tag in your frontend page:
 
-```
+``` html
 <script data-cdn="jquery,lodash,axios" src="cdn-loader.js"></script>
 ```
 在**data-cdn**属性中输入**cdn-config.json**中配置库的键值，即可引入对应的库。
@@ -39,7 +39,7 @@ Enter the keys of the libraries configured in cdn-config.json in the data-cdn at
 
 Alternatively, use a CDN:
 
-```
+``` html
 <script data-cdn="jquery,lodash,axios" src="https://unpkg.com/cdnsf@1.0.1/cdn-loader.js"></script>
 ```
 
