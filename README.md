@@ -9,9 +9,9 @@ CDN Source Fast is a lightweight, pure frontend tool that allows developers to d
 ## 快速开始 Quick Start
 ### 1.配置CDN源 Configure CDN Sources
 
-在**cdn-config.json**文件中添加CDN源，例如：
+将**cdn-config.json**下载到网站根目录中，在该文件中添加CDN源，例如：
 
-Add CDN sources to a cdn-config.json file, for example:
+Download cdn-config.json to the root directory of the website, and add CDN sources to the file, for example:
 
 ``` json
 {
