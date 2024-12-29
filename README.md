@@ -18,6 +18,6 @@ CDN Source Fast 是一个轻量级的纯前端工具，允许开发者通过一�
 ```
 <script data-cdn="jquery,lodash,axios" src="cdn-loader.js"></script>
 ```
-在**data-cdn**属性中输入**cdn-config.json**中配置库的键值，即可引入。
+在**data-cdn**属性中输入**cdn-config.json**中配置库的键值，即可引入对应的库。
 
 
