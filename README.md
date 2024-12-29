@@ -40,7 +40,7 @@ Enter the keys of the libraries configured in cdn-config.json in the data-cdn at
 Alternatively, use a CDN:
 
 ``` html
-<script data-cdn="jquery,lodash,axios" src="https://unpkg.com/cdnsf@1.0.1/cdn-loader.js"></script>
+<script data-cdn="jquery,lodash,axios" src="https://unpkg.com/cdnsf@1.0.2/cdn-loader.js"></script>
 ```
 
 
