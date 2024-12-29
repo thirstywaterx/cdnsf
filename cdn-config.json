@@ -1,0 +1,7 @@
+{
+  "libraries": {
+    "jquery": "https://code.jquery.com/jquery-3.6.0.min.js",
+    "lodash": "https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js",
+    "axios": "https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"
+  }
+}
