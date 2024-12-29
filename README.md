@@ -1,4 +1,5 @@
 #  CDN Source Fast
+![npm](https://www.npmjs.com/package/cdnsf)
 CDN Source Fast 是一个轻量级的纯前端工具，允许开发者通过一个 <script> 标签，在 HTML 中动态加载多个 CDN 资源，并支持通过 JSON 文件进行统一管理。
 
 CDN Source Fast is a lightweight, pure frontend tool that allows developers to dynamically load multiple CDN resources in HTML using a single <script> tag. It also supports unified management of resources via a JSON file.
